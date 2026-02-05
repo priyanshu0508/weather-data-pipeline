@@ -1,0 +1,9 @@
+Weather Summary Report
+----------------------
+Total Records: 28
+
+Average Temperature: 26.25 °C
+Minimum Temperature: 19.05 °C
+Maximum Temperature: 30.99 °C
+
+Average Humidity: 36.93 %
