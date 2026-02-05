@@ -1,18 +1,3 @@
-# import json
-# import os
-# from monitor import pipeline_health_check
-
-# def generate_status_dashboard():
-#     status = pipeline_health_check()
-
-#     os.makedirs("reports", exist_ok=True)
-
-#     with open("reports/status.json", "w", encoding="utf-8") as f:
-#         json.dump(status, f, indent=4)
-
-#     return status
-
-
 import os
 import json
 from database import get_connection
